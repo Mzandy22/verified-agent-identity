@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GOOGLE_API_KEY: ${{ AIzaSyBYGuab9Ki-sB4EKFXPLGWIUn__AXRAgFs }}
 
     steps:
       - name: Checkout repository
